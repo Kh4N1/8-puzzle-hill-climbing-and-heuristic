@@ -2,8 +2,8 @@
 
 ## Build With 🏗️
 
--   [\Python](https://www.python.org/) - A high-level, general-purpose programming language
--   [\Streamlit](https://streamlit.io/) - Streamlit turns data scripts into shareable web apps
+-   [Python](https://www.python.org/) - A high-level, general-purpose programming language
+-   [Streamlit](https://streamlit.io/) - Streamlit turns data scripts into shareable web apps
 
 ## Description 📝
 This undertaking employs an 8-puzzle resolution approach employing a "mountain ascent" enhancement technique.
