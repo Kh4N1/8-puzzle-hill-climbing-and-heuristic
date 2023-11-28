@@ -77,8 +77,9 @@ def main():
     print_table(template_state)
 
     st.write("\n---------------------------\n")
-    st.header("Initial puzzle:")
+    st.header("Create Initial puzzle:")
     initial_state = create_initial_state()
+    st.write("Initial puzzle with your inputs:")
     print_table(initial_state)
     initial_state_h1 = copy.deepcopy(initial_state)
     result_h1, moves_h1, path_h1 = hill_climbing(initial_state_h1, heuristic_1, goal_state)
