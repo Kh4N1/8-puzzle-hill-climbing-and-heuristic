@@ -28,6 +28,9 @@ The resolver operates through:
 ```
 * Clone this repo to your local machine.
 * Using the terminal, navigate to the cloned repo.
+* Creation of virtual environments
+* Active Your "Activate.ps1"
+* Upgrade your pip
 pip install streamlit
-streamlab run main.py
+streamlit run main.py
 ```
